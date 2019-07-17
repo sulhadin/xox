@@ -1,2 +1,2 @@
 # xox
-This is a desktop XOX game.
+This is a Unity XOX game.
